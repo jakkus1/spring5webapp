@@ -1,4 +1,4 @@
-package com.example.spring5webapp;
+package com.kusmierczyk.spring5webapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
